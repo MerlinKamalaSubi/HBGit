@@ -1,0 +1,8 @@
+# Created at 2020-03-09T18:41:22.650
+An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: connect ECONNREFUSED 127.0.0.1:8200
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CS-LP-321', ip: '172.50.85.130', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\myworkspace_Framework\Ho..., appActivity: .MainActivity, appPackage: com.homebinder.homebinderapp, automationName: uiautomator2, databaseEnabled: false, desired: {app: D:\myworkspace_Framework\Ho..., appActivity: .MainActivity, appPackage: com.homebinder.homebinderapp, automationName: uiautomator2, deviceName: emulator-5554, platformName: android}, deviceApiLevel: 27, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 420, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.625, platform: LINUX, platformName: Android, platformVersion: 8.1.0, statBarHeight: 63, takesScreenshot: true, viewportRect: {height: 1731, left: 0, top: 63, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 42617793-5dd2-4200-a1b0-90b659922fa9
+
